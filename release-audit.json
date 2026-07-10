@@ -1,26 +1,26 @@
 {
   "site_dir": "E:\\keyan project\\基于AI构建3d模型赋能教学\\outputs\\heart-circulation-3d-v1.0\\release\\v3.0",
   "file_count": 6,
-  "total_bytes": 4336789,
+  "total_bytes": 4336847,
   "model_assets": [
     "models/heart-circulation-v3.0-core.glb"
   ],
   "structure_count": 19,
   "files": [
     {
+      "path": "assets/index-C6BJlnak.js",
+      "bytes": 866677,
+      "sha256": "d8f4908ec82afd1069a4b96013315e17b006b970bb8126bb1af7dd8976989a1f"
+    },
+    {
       "path": "assets/index-DQCZWHgS.css",
       "bytes": 15649,
       "sha256": "ce4b92d8b3e690e5ef9c72a99808463cbeaccb48f13f76d99c77197e6eba3ed3"
     },
     {
-      "path": "assets/index-okOL1X2U.js",
-      "bytes": 866619,
-      "sha256": "a56c320a59c386a864c8d904589e69e8361788997891658d88e47ffe11c83b3e"
-    },
-    {
       "path": "index.html",
       "bytes": 598,
-      "sha256": "a3117317fb0e7ff169a8104e42d09ee6ec55b9d9a495bdd04fb7e8eb7e51a914"
+      "sha256": "5ca9940572fb062444d0bfee2d55a21988259064a603657fb742b245a1e1431f"
     },
     {
       "path": "models/heart-circulation-v3.0-core.glb",
